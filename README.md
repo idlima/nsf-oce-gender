@@ -13,6 +13,9 @@ In this series of jupyter notebooks we:
   3. The top 10 academic organizations in number of awards
   4. Identified research topics
   5. Award types
-- Examine gender differences in the NSF-OCE awards that went to WHOI
+- Examine gender differences in the NSF-OCE awards that went to WHOI across:
+  1. The top 10 largest NSF-OCE programs in number of awards
+  2. Identified research topics
+  3. Award types
 
-Ivan Lima - Mon Aug 24 2020 20:54:55 -0400
+Ivan Lima - Thu Nov  5 2020 20:06:50 -0500
