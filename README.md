@@ -18,4 +18,6 @@ In this series of jupyter notebooks we:
   2. Identified research topics
   3. Award types
 
-Ivan Lima - Thu Nov  5 2020 20:06:50 -0500
+This work is being done in collaboration with Jennie Rheuban and we have submitted a manuscript for publication in *Oceanography* magazine.
+
+Ivan Lima - Fri Jul 30 2021 16:48:34 -0400
