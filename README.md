@@ -18,6 +18,6 @@ In this series of jupyter notebooks we:
   2. Identified research topics
   3. Award types
 
-This work was done in collaboration with Jennie Rheuban and a manuscript has been accepted for publication in *Oceanography* magazine.
+This work was done in collaboration with Jennie Rheuban and is published in [Lima, I.D., and J.E. Rheuban. 2021. Gender differences in NSF ocean sciences awards. *Oceanography* 34(4)](https://doi.org/10.5670/oceanog.2021.401).
 
-Ivan Lima - Mon Aug 23 2021 10:36:46 -0400
+Ivan Lima - Mon Sep 20 2021 08:46:06 -0400
